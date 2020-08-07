@@ -1,4 +1,4 @@
-# Sistema de filmes com Angular
+# Sistema de filmes
 
 O projeto tem um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
